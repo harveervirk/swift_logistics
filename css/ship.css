@@ -1,0 +1,11 @@
+
+#regiration_form fieldset:not(:first-of-type) {
+      display: none;
+    }
+body{
+  background-color:#02044A;
+  color: white;
+}
+.container{
+  margin-top: 4rem;
+}
